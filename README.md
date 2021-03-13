@@ -11,4 +11,4 @@ INSPIRE coverage services rely on
 
 A [primer on OGC coverages](https://earthserver.eu/wcs), together with links to manifold slide decks, webinars, and documentation is provided by [EarthServer](https://earthserver.eu). Further, WCS and WCPS are illustrated in a spectrum of functionalities, clients, and across dimensions in the [Earth Datacube Playground](https://standards.rasdaman.com/).
 
-The [INSPIRE Coverages Candidate Good Practice service](https://inspire-wcs.eu) is publicly available; it showcases coverage types across various INSPIRE Annexes, including processing and fusion. It has been presented to the public in an [INSPIRE webinar held in February 2021](https://inspire.ec.europa.eu/coverage-good-practice).
+The  publicly available [INSPIRE Coverages Candidate Good Practice service](https://inspire-wcs.eu), based on rasdaman, showcases coverage types across various INSPIRE Annexes, including processing and fusion with both WCS and WCPS. It has been presented to the public in an [INSPIRE webinar held in February 2021](https://inspire.ec.europa.eu/coverage-good-practice).
